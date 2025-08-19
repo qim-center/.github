@@ -1,6 +1,10 @@
-We develop advanced algorithms and tools for quantitative image analysis, supporting cutting-edge research at large-scale imaging facilities 
+# Quick access
 
-Visit our website at [qim.dk](https://qim.dk/) or reach out via info@qim.dk
+🌐 [QIM Center website](https://qim.dk/)  
+📖 [qim3d documentation](https://docs.qim.dk/qim3d/)  
+🛠️ [QIM Platform](https://platform.qim.dk/)
 
-
-You can engage with the community and follow the latest news at the [QIM Forum](https://forum.qim.dk/)
+### Get in touch
+💬 [QIM Forum](https://forum.qim.dk/)  
+✉️ **Contact us** at [info@qim.dk](mailto:info@qim.dk)
+🐦 [Follow @QIMCenter on X (Twitter)](https://x.com/QIMCenter)
