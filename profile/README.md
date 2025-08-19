@@ -1,4 +1,4 @@
-# Quick access
+## Quick access
 
 🌐 [QIM Center website](https://qim.dk/)  
 📖 [qim3d documentation](https://docs.qim.dk/qim3d/)  
@@ -7,4 +7,3 @@
 ### Get in touch
 💬 [QIM Forum](https://forum.qim.dk/)  
 ✉️ **Contact us** at [info@qim.dk](mailto:info@qim.dk)
-🐦 [Follow @QIMCenter on X (Twitter)](https://x.com/QIMCenter)
